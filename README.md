@@ -1,4 +1,4 @@
-![logo](_media/Adobe_Certified_Expert_Adobe_Commerce_Developer_Badge.png)
+![logo](Adobe_Certified_Expert_Adobe_Commerce_Developer_Badge.png)
 
 # Personal Notes For Magento 2 Interview Questions  <small>with latest</small>
 
