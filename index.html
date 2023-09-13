@@ -12,10 +12,12 @@
   <div id="app">Please wait...</div>
   <script>
     window.$docsify = {
-      name: '',
+      name: 'Magento@2 Personnel Doc',
       repo: '',
       loadSidebar: true,
       coverpage: true,
+      loadSidebar: true,
+      autoHeader: true,
       copyCode: {
         buttonText: 'Copy to clipboard',
         errorText: 'Error',
@@ -24,7 +26,14 @@
       search: {
         maxAge: 86400000, // Cache search results for one day.
         paths: ['auto', '/_sidebar.md'], // Adjust the paths as needed.
-      }
+      },
+      disqus: 'longname',
+      share: {
+            linkedin: true,
+            facebook: true,
+            whatsapp: true,
+            telegram: true,
+        },
     }
 
   </script>
@@ -32,6 +41,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.js"></script>
-
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/disqus.min.js"></script>
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>

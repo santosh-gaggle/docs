@@ -4,12 +4,9 @@
 
   - [What is Composer](composer.md?id=what-is-composer)
   - [Composer Install VS Composer Update](composer.md?id=composer-install-vs-composer-update)
-  - [Metapackage](metapackage.md)
+  - [Metapackage](metapackage?id=what-is-metapackage)
   - [Extension lifecycle Schema](schema?id=module-lifecycle-and-executable-classes)
-
-- Customization
-
-  - [Configuration](configuration.md)
+  - [Dependency injection](dependency_injection.md)
   - [Themes](themes.md)
   - [List of Plugins](plugins.md)
   - [Write a Plugin](write-a-plugin.md)
@@ -19,13 +16,4 @@
 
 - Guide
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode (PWA)](pwa.md)
-  - [Server-Side Rendering (SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
-
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+  - [Installation](deploy.md)
