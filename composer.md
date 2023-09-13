@@ -2,7 +2,7 @@
 ![logo](https://docsify.js.org/_media/icon.svg ':size=50x100')
 # What is Composer?
 
-Composer is a dependency management tool for PHP. It allows you to declare the libraries your project depends on and manages their installation.
+Composer is a PHP dependency management tool that enables you to specify the libraries upon which your project relies and efficiently handles their installation.
 
 
 ## Getting Started with Composer

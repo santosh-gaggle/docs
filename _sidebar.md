@@ -4,8 +4,8 @@
 
   - [What is Composer](composer.md?id=what-is-composer)
   - [Composer Install VS Composer Update](composer.md?id=composer-install-vs-composer-update)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Metapackage](metapackage.md)
+  - [Extension lifecycle Schema](schema?id=module-lifecycle-and-executable-classes)
 
 - Customization
 
