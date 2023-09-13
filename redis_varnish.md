@@ -14,11 +14,7 @@ Redis Cache, on the other hand, is an open-source, in-memory data structure stor
 
 The primary distinction between Varnish Cache and Redis Cache lies in the types of data they store:
 
-- **Varnish Cache**: Designed to store web content like HTML, images, CSS, and JavaScript. It excels at caching content for websites.
-
-- **Redis Cache**: Designed to store various data types in memory, such as strings, hashes, lists, sets, and sorted sets. It's more versatile and can be used for data caching, acting as a cache layer, and more.
-
-It's important to note that Varnish Cache is not a database, whereas Redis Cache can be used as one.
+> It's important to note that Varnish Cache is not a database, whereas Redis Cache can be used as one.
 
 - **Primary Purpose**:
 
