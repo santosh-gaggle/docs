@@ -1,4 +1,3 @@
-- [Cover Page](/)
 
 - Getting started
 
