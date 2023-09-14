@@ -2,6 +2,15 @@
 
 The SOLID principles are a set of five design principles for writing maintainable and scalable software in object-oriented programming. Let's go through each principle in detail with examples:
 
+
+# Advantages of following these principles:
+
+- Avoid Duplicate code
+- Easy to maintain
+- Easy to understand
+- Flexible software
+- Reduce Complexity
+
 ## 1. Single Responsibility Principle (SRP)
 
 **Definition**: A class should have only one reason to change, meaning it should have only one responsibility.

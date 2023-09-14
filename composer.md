@@ -1,4 +1,3 @@
-
 ![logo](https://docsify.js.org/_media/icon.svg ':size=50x100')
 # What is Composer?
 
