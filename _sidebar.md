@@ -15,6 +15,8 @@
   - [PhpCS PhpMD PhpSTAN](dev_tools.md)
   - [Oops concepts](oops_concepts.md)
   - [Solid Principle](solid_principle.md)
+  - [Custom Caching](custom_caching.md)
+  - [About Salable quantity](salable_qty.md)
 
 - Guide
 
