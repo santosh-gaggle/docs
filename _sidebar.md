@@ -6,6 +6,7 @@
   - [Metapackage](metapackage?id=what-is-metapackage)
   - [Extension lifecycle Schema](schema?id=module-lifecycle-and-executable-classes)
   - [Dependency injection](dependency_injection.md)
+  - [Object Manager](Object_Manager.md)
   - [Injectable and Newable/Non-Injectable](Injectable_non-Injectable.md?id=injectable-and-newablenon-injectable-objects-in-magento)
   - [Observers and events](observers_events.md)
   - [Plugins in Details](plugins.md)
@@ -43,6 +44,7 @@
   - [Extension attributes](Extension_attributes.md)
   - [Proxy Class](proxy_class.md)
   - [Private and Public Content](private_public_content.md)
+
 
 - Guide
 

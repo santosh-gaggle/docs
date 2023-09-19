@@ -4,7 +4,7 @@
 Dependency Injection is a design pattern that allows an object A to declare its dependencies to an external object B that supplies those dependencies. The dependencies declared by A are usually class interfaces and the dependencies B provides are concrete implementations for those interfaces.
 
 ##### one more definition
-> Dependency injection is a technique used in Magento 2 to manage class dependencies by injecting them from the outside rather than creating them internally. This improves code maintainability and testability.
+> Dependency injection is a design pattern that allows to manage class dependencies by injecting them from the outside rather than creating them internally. This improves code maintainability and testability.
 
 
 ## Benefits of Dependency Injection
@@ -99,3 +99,7 @@ interface Wheels {
     public function rotate();
 }
 ```
+
+# Dependency types
+
+- [Dependency types](/Injectable_non-Injectable.md)
