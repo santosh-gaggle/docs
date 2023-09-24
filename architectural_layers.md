@@ -1,0 +1,1 @@
+https://developer.adobe.com/commerce/php/architecture/layers/

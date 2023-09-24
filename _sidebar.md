@@ -44,6 +44,7 @@
   - [Extension attributes](Extension_attributes.md)
   - [Proxy Class](proxy_class.md)
   - [Private and Public Content](private_public_content.md)
+  - [Architectural layers](architectural_layers.md)
 
 
 - Guide
