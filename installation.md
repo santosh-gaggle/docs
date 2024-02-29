@@ -34,3 +34,13 @@ bin/magento setup:install --backend-frontname=backend --base-url=http://baseurl/
 bin/magento module:disable Magento_AdminAdobeImsTwoFactorAuth Magento_TwoFactorAuth
 
 ```
+
+## To TraceAsString 
+
+```
+$e = new \Exception();
+echo '<pre>';
+print_r($e->getTraceAsString()); die;
+exit;
+
+```
