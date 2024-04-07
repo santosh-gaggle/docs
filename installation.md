@@ -9,6 +9,21 @@
  composer create-project --repository-url=https://repo.magento.com/ magento/project-community-edition=2.4.6 m246
 ```
 
+## Get the Magento meta-package by the composer for the enterprise edition
+
+```
+ composer create-project --repository-url=https://repo.magento.com/ magento/project-enterprise-edition=2.4.6-p1 <install-directory-name>
+
+```
+
+## Get the Magento B2B modules for enterprise edition
+
+```
+ composer require magento/extension-b2b
+
+```
+
+
 ## Install the sample data (if required)
 
 ```
